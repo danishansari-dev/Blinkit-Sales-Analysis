@@ -106,4 +106,4 @@ Thank you for exploring the **Blinkit Sales Analysis Dashboard** project!
 ## ✉️ Contact
 
 For any questions, feedback, or collaboration opportunities, please feel free to reach out at:  
-📧 **[daansari7300@gmail.com](mailto:danishansari.dev@gmail.com)**
+📧 **[danishansari.dev@gmail.com](mailto:danishansari.dev@gmail.com)**
